@@ -28,17 +28,17 @@ I have educational background in Finance and Economics, and interests in various
 
 These repositories contain the notes and cheatsheets that I prepared while learning and practicing various tools and topics. These repositories provide extensive notes and cheatsheets to help you understand various tools and topics. They serve as a valuable reference for quickly recalling concepts and implementing technology with an example. I update and rewrite these notes, and add more repositories as I learn new things. Feel free to check these out:
 
-- [PostgreSQL](https://github.com/Ziya-Asgar/PostgreSQL)
-- [MongoDB](https://github.com/Ziya-Asgar/MongoDB)
-- [Python](https://github.com/Ziya-Asgar/Python)
-- [Python_Pandas](https://github.com/Ziya-Asgar/Python_Pandas)
-- [Python_Numpy](https://github.com/Ziya-Asgar/Python_Numpy)
-- [Python_Matplotlib](https://github.com/Ziya-Asgar/Python_Matplotlib)
-- [Python_Seaborn](https://github.com/Ziya-Asgar/Python_Seaborn)
-- [GIT](https://github.com/Ziya-Asgar/GIT)
-- [JavaScript](https://github.com/Ziya-Asgar/JavaScript)
-- [NodeJS](https://github.com/Ziya-Asgar/NodeJS)
-- [ReactJS](https://github.com/Ziya-Asgar/ReactJS)
+- [PostgreSQL notes](https://github.com/Ziya-Asgar/PostgreSQL)
+- [MongoDB notes](https://github.com/Ziya-Asgar/MongoDB)
+- [Python notes](https://github.com/Ziya-Asgar/Python)
+- [Python Pandas notes](https://github.com/Ziya-Asgar/Python_Pandas)
+- [Python Numpy notes](https://github.com/Ziya-Asgar/Python_Numpy)
+- [Python Matplotlib notes](https://github.com/Ziya-Asgar/Python_Matplotlib)
+- [Python Seaborn notes](https://github.com/Ziya-Asgar/Python_Seaborn)
+- [GIT notes](https://github.com/Ziya-Asgar/GIT)
+- [JavaScript notes](https://github.com/Ziya-Asgar/JavaScript)
+- [NodeJS and ExpressJS notes](https://github.com/Ziya-Asgar/NodeJS)
+- [ReactJS notes](https://github.com/Ziya-Asgar/ReactJS)
 
 ---
 
@@ -48,23 +48,23 @@ These repositories contain the notes and projects related to **data analysis and
 
 ### Projects
 
-- [python_automate_excel](https://github.com/Ziya-Asgar/11_python_automate_excel)
-- [pandas_data_cleaning](https://github.com/Ziya-Asgar/10_pandas_data_cleaning)
-- [pandas_project_and_practice_sessions](https://github.com/Ziya-Asgar/09_pandas_project_and_practice_sessions)
-- [pizza_sales_SQL_PBI](https://github.com/Ziya-Asgar/22_pizza_sales_SQL_PBI)
-- [SQL_DA](https://github.com/Ziya-Asgar/15_SQL_DA)
-- [SQL_PBI](https://github.com/Ziya-Asgar/14_SQL_PBI)
-- [SQL_EDA](https://github.com/Ziya-Asgar/13_SQL_EDA)
+- [Controlling Excel Files with Python](https://github.com/Ziya-Asgar/11_python_automate_excel)
+- [Data Cleaning Project with Python Pandas](https://github.com/Ziya-Asgar/10_pandas_data_cleaning)
+- [Several Data Analysis and Practice Projects using Python Pandas](https://github.com/Ziya-Asgar/09_pandas_project_and_practice_sessions)
+- [Sales Dashboard Project with SQL and Power BI](https://github.com/Ziya-Asgar/22_pizza_sales_SQL_PBI)
+- [SQL Data Analysis Project](https://github.com/Ziya-Asgar/15_SQL_DA)
+- [Power BI Project with a PostgreSQL DB](https://github.com/Ziya-Asgar/14_SQL_PBI)
+- [SQL Exploratory Data Analysis project](https://github.com/Ziya-Asgar/13_SQL_EDA)
 
 ### Learning Repositories for Data Analysis and Visualization
 
-- [PostgreSQL](https://github.com/Ziya-Asgar/PostgreSQL)
-- [MongoDB](https://github.com/Ziya-Asgar/MongoDB)
-- [Python](https://github.com/Ziya-Asgar/Python)
-- [Python_Pandas](https://github.com/Ziya-Asgar/Python_Pandas)
-- [Python_Numpy](https://github.com/Ziya-Asgar/Python_Numpy)
-- [Python_Matplotlib](https://github.com/Ziya-Asgar/Python_Matplotlib)
-- [Python_Seaborn](https://github.com/Ziya-Asgar/Python_Seaborn)
+- [PostgreSQL notes](https://github.com/Ziya-Asgar/PostgreSQL)
+- [MongoDB notes](https://github.com/Ziya-Asgar/MongoDB)
+- [Python notes](https://github.com/Ziya-Asgar/Python)
+- [Python Pandas notes](https://github.com/Ziya-Asgar/Python_Pandas)
+- [Python Numpy notes](https://github.com/Ziya-Asgar/Python_Numpy)
+- [Python Matplotlib notes](https://github.com/Ziya-Asgar/Python_Matplotlib)
+- [Python Seaborn notes](https://github.com/Ziya-Asgar/Python_Seaborn)
 
 ---
 
@@ -74,15 +74,15 @@ These repositories contain the notes and projects related to **databases**. This
 
 ### Projects
 
-- [pizza_sales_SQL_PBI](https://github.com/Ziya-Asgar/22_pizza_sales_SQL_PBI)
-- [SQL_DA](https://github.com/Ziya-Asgar/15_SQL_DA)
-- [SQL_PBI](https://github.com/Ziya-Asgar/14_SQL_PBI)
-- [SQL_EDA](https://github.com/Ziya-Asgar/13_SQL_EDA)
+- [Sales Dashboard Project with SQL and Power BI](https://github.com/Ziya-Asgar/22_pizza_sales_SQL_PBI)
+- [SQL Data Analysis Project](https://github.com/Ziya-Asgar/15_SQL_DA)
+- [Power BI Project with a PostgreSQL DB](https://github.com/Ziya-Asgar/14_SQL_PBI)
+- [SQL Exploratory Data Analysis project](https://github.com/Ziya-Asgar/13_SQL_EDA)
 
 ### Learning Repositories for Databases
 
-- [PostgreSQL](https://github.com/Ziya-Asgar/PostgreSQL)
-- [MongoDB](https://github.com/Ziya-Asgar/MongoDB)
+- [PostgreSQL notes](https://github.com/Ziya-Asgar/PostgreSQL)
+- [MongoDB notes](https://github.com/Ziya-Asgar/MongoDB)
 
 ---
 
@@ -92,14 +92,14 @@ These repositories contain the notes and projects related to the **Structured Qu
 
 ### Projects
 
-- [pizza_sales_SQL_PBI](https://github.com/Ziya-Asgar/22_pizza_sales_SQL_PBI)
-- [SQL_DA](https://github.com/Ziya-Asgar/15_SQL_DA)
-- [SQL_PBI](https://github.com/Ziya-Asgar/14_SQL_PBI)
-- [SQL_EDA](https://github.com/Ziya-Asgar/13_SQL_EDA)
+- [Sales Dashboard Project with SQL and Power BI](https://github.com/Ziya-Asgar/22_pizza_sales_SQL_PBI)
+- [SQL Data Analysis Project](https://github.com/Ziya-Asgar/15_SQL_DA)
+- [Power BI Project with a PostgreSQL DB](https://github.com/Ziya-Asgar/14_SQL_PBI)
+- [SQL Exploratory Data Analysis project](https://github.com/Ziya-Asgar/13_SQL_EDA)
 
 ### Learning Repositories for SQL
 
-- [PostgreSQL](https://github.com/Ziya-Asgar/PostgreSQL)
+- [PostgreSQL notes](https://github.com/Ziya-Asgar/PostgreSQL)
 
 ---
 
@@ -107,8 +107,8 @@ These repositories contain the notes and projects related to the **Structured Qu
 
 These repositories involve using **Power BI** to visualize, transform data with **Power Query**, and calculate various data dimensions using **Data Analysis Expressions (DAX)**. You can practice with the projects below to improve your Power BI skills:
 
-- [pizza_sales_SQL_PBI](https://github.com/Ziya-Asgar/22_pizza_sales_SQL_PBI)
-- [SQL_PBI](https://github.com/Ziya-Asgar/14_SQL_PBI)
+- [Sales Dashboard Project with SQL and Power BI](https://github.com/Ziya-Asgar/22_pizza_sales_SQL_PBI)
+- [Power BI Project with a PostgreSQL DB](https://github.com/Ziya-Asgar/14_SQL_PBI)
 
 ---
 
@@ -118,17 +118,17 @@ These repositories contain the notes and projects related to **Python**, and its
 
 ### Projects
 
-- [python_automate_excel](https://github.com/Ziya-Asgar/11_python_automate_excel)
-- [pandas_data_cleaning](https://github.com/Ziya-Asgar/10_pandas_data_cleaning)
-- [pandas_project_and_practice_sessions](https://github.com/Ziya-Asgar/09_pandas_project_and_practice_sessions)
+- [Controlling Excel Files with Python](https://github.com/Ziya-Asgar/11_python_automate_excel)
+- [Data Cleaning Project with Python Pandas](https://github.com/Ziya-Asgar/10_pandas_data_cleaning)
+- [Several Data Analysis and Practice Projects using Python Pandas](https://github.com/Ziya-Asgar/09_pandas_project_and_practice_sessions)
 
 ### Learning Repositories for Python
 
-- [Python](https://github.com/Ziya-Asgar/Python)
-- [Python_Pandas](https://github.com/Ziya-Asgar/Python_Pandas)
-- [Python_Numpy](https://github.com/Ziya-Asgar/Python_Numpy)
-- [Python_Matplotlib](https://github.com/Ziya-Asgar/Python_Matplotlib)
-- [Python_Seaborn](https://github.com/Ziya-Asgar/Python_Seaborn)
+- [Python notes](https://github.com/Ziya-Asgar/Python)
+- [Python Pandas notes](https://github.com/Ziya-Asgar/Python_Pandas)
+- [Python Numpy notes](https://github.com/Ziya-Asgar/Python_Numpy)
+- [Python Matplotlib notes](https://github.com/Ziya-Asgar/Python_Matplotlib)
+- [Python Seaborn notes](https://github.com/Ziya-Asgar/Python_Seaborn)
 
 ---
 
@@ -136,11 +136,11 @@ These repositories contain the notes and projects related to **Python**, and its
 
 This section contains notes related to **web development**, with a focus on **JavaScript**. The learning resources here cover details about frontend, backend, and databases. These repositories are extensive and involve lots of examples. You can learn and practice with these notes to improve your web development skills to a good level:
 
-- [JavaScript](https://github.com/Ziya-Asgar/JavaScript)
-- [ReactJS](https://github.com/Ziya-Asgar/ReactJS)
-- [NodeJS](https://github.com/Ziya-Asgar/NodeJS)
-- [GIT](https://github.com/Ziya-Asgar/GIT)
-- [MongoDB](https://github.com/Ziya-Asgar/MongoDB)
-- [PostgreSQL](https://github.com/Ziya-Asgar/PostgreSQL)
+- [JavaScript notes](https://github.com/Ziya-Asgar/JavaScript)
+- [ReactJS notes](https://github.com/Ziya-Asgar/ReactJS)
+- [NodeJS and ExpressJS notes](https://github.com/Ziya-Asgar/NodeJS)
+- [GIT notes](https://github.com/Ziya-Asgar/GIT)
+- [MongoDB notes](https://github.com/Ziya-Asgar/MongoDB)
+- [PostgreSQL notes](https://github.com/Ziya-Asgar/PostgreSQL)
 
 ---
