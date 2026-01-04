@@ -48,6 +48,7 @@ These repositories contain the notes and projects related to **data analysis and
 
 ### Projects
 
+- [Employee Dashboard with Power BI (Advanced DAX)](https://github.com/Ziya-Asgar/23_Emp_Att_Dashboard)
 - [Controlling Excel Files with Python](https://github.com/Ziya-Asgar/11_python_automate_excel)
 - [Data Cleaning Project with Python Pandas](https://github.com/Ziya-Asgar/10_pandas_data_cleaning)
 - [Several Data Analysis and Practice Projects using Python Pandas](https://github.com/Ziya-Asgar/09_pandas_project_and_practice_sessions)
@@ -107,6 +108,7 @@ These repositories contain the notes and projects related to the **Structured Qu
 
 These repositories involve using **Power BI** to visualize, transform data with **Power Query**, and calculate various data dimensions using **Data Analysis Expressions (DAX)**. You can practice with the projects below to improve your Power BI skills:
 
+- [Employee Dashboard with Power BI (Advanced DAX)](https://github.com/Ziya-Asgar/23_Emp_Att_Dashboard)
 - [Sales Dashboard Project with SQL and Power BI](https://github.com/Ziya-Asgar/22_pizza_sales_SQL_PBI)
 - [Power BI Project with a PostgreSQL DB](https://github.com/Ziya-Asgar/14_SQL_PBI)
 
