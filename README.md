@@ -121,8 +121,10 @@ These repositories contain the notes and projects related to **Python**, and its
 ### Projects
 
 - [Controlling Excel Files with Python](https://github.com/Ziya-Asgar/11_python_automate_excel)
-- [Data Cleaning Project with Python Pandas](https://github.com/Ziya-Asgar/10_pandas_data_cleaning)
-- [Several Data Analysis and Practice Projects using Python Pandas](https://github.com/Ziya-Asgar/09_pandas_project_and_practice_sessions)
+- [Data Cleaning Project with Python Pandas - customer contact details](https://github.com/Ziya-Asgar/10_pandas_data_cleaning)
+- [Data Cleaning Project with Python Pandas - sport statistics](https://github.com/Ziya-Asgar/09_pandas_exploration_sessions)
+- [Exploratory Data Analysis with Python Pandas - marathon race data](https://github.com/Ziya-Asgar/09_pandas_exploration_sessions)
+- [Python Pandas Exploration Sessions](https://github.com/Ziya-Asgar/09_pandas_exploration_sessions)
 
 ### Learning Repositories for Python
 
