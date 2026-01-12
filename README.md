@@ -50,8 +50,10 @@ These repositories contain the notes and projects related to **data analysis and
 
 - [Employee Dashboard with Power BI (Advanced DAX)](https://github.com/Ziya-Asgar/23_Emp_Att_Dashboard)
 - [Controlling Excel Files with Python](https://github.com/Ziya-Asgar/11_python_automate_excel)
-- [Data Cleaning Project with Python Pandas](https://github.com/Ziya-Asgar/10_pandas_data_cleaning)
-- [Several Data Analysis and Practice Projects using Python Pandas](https://github.com/Ziya-Asgar/09_pandas_project_and_practice_sessions)
+- [Data Cleaning Project with Python Pandas - customer contact details](https://github.com/Ziya-Asgar/10_pandas_data_cleaning)
+- [Data Cleaning Project with Python Pandas - sport statistics](https://github.com/Ziya-Asgar/28_Python_DC)
+- [Exploratory Data Analysis with Python Pandas - marathon race data](https://github.com/Ziya-Asgar/27_Python_EDA)
+- [Python Pandas Exploration Sessions](https://github.com/Ziya-Asgar/09_pandas_exploration_sessions)
 - [Sales Dashboard Project with SQL and Power BI](https://github.com/Ziya-Asgar/22_pizza_sales_SQL_PBI)
 - [SQL Data Analysis Project](https://github.com/Ziya-Asgar/15_SQL_DA)
 - [Power BI Project with a PostgreSQL DB](https://github.com/Ziya-Asgar/14_SQL_PBI)
