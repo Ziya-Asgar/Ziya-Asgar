@@ -143,6 +143,7 @@ These repositories contain the notes and projects related to **Python**, and its
 This section contains notes related to **web development**, with a focus on **JavaScript**. The learning resources here cover details about frontend, backend, and databases. These repositories are extensive and involve lots of examples. You can learn and practice with these notes to improve your web development skills to a good level:
 
 - [JavaScript notes](https://github.com/Ziya-Asgar/JavaScript)
+- [TypeScript notes](https://github.com/Ziya-Asgar/TypeScript)
 - [ReactJS notes](https://github.com/Ziya-Asgar/ReactJS)
 - [NodeJS and ExpressJS notes](https://github.com/Ziya-Asgar/NodeJS)
 - [GIT notes](https://github.com/Ziya-Asgar/GIT)
