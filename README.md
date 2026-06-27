@@ -35,6 +35,7 @@ These repositories contain the notes and cheatsheets that I prepared while learn
 - [Python Numpy notes](https://github.com/Ziya-Asgar/Python_Numpy)
 - [Python Matplotlib notes](https://github.com/Ziya-Asgar/Python_Matplotlib)
 - [Python Seaborn notes](https://github.com/Ziya-Asgar/Python_Seaborn)
+- [dbt (Data Build Tool)](https://github.com/Ziya-Asgar/dbt-data-build-tool-)
 - [GIT notes](https://github.com/Ziya-Asgar/GIT)
 - [JavaScript notes](https://github.com/Ziya-Asgar/JavaScript)
 - [NodeJS and ExpressJS notes](https://github.com/Ziya-Asgar/NodeJS)
@@ -68,6 +69,7 @@ These repositories contain the notes and projects related to **data analysis and
 - [Python Numpy notes](https://github.com/Ziya-Asgar/Python_Numpy)
 - [Python Matplotlib notes](https://github.com/Ziya-Asgar/Python_Matplotlib)
 - [Python Seaborn notes](https://github.com/Ziya-Asgar/Python_Seaborn)
+- [dbt (Data Build Tool)](https://github.com/Ziya-Asgar/dbt-data-build-tool-)
 
 ---
 
@@ -86,6 +88,7 @@ These repositories contain the notes and projects related to **databases**. This
 
 - [PostgreSQL notes](https://github.com/Ziya-Asgar/PostgreSQL)
 - [MongoDB notes](https://github.com/Ziya-Asgar/MongoDB)
+- [dbt (Data Build Tool)](https://github.com/Ziya-Asgar/dbt-data-build-tool-)
 
 ---
 
