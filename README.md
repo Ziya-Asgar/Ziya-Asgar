@@ -38,6 +38,7 @@ These repositories contain the notes and cheatsheets that I prepared while learn
 - [dbt (Data Build Tool)](https://github.com/Ziya-Asgar/dbt-data-build-tool-)
 - [GIT notes](https://github.com/Ziya-Asgar/GIT)
 - [JavaScript notes](https://github.com/Ziya-Asgar/JavaScript)
+- [TypeScript notes](https://github.com/Ziya-Asgar/TypeScript)
 - [NodeJS and ExpressJS notes](https://github.com/Ziya-Asgar/NodeJS)
 - [ReactJS notes](https://github.com/Ziya-Asgar/ReactJS)
 
