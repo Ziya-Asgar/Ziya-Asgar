@@ -42,6 +42,7 @@ These repositories contain the notes and cheatsheets that I prepared while learn
 - [NodeJS and ExpressJS notes](https://github.com/Ziya-Asgar/NodeJS)
 - [ReactJS notes](https://github.com/Ziya-Asgar/ReactJS)
 - [React Router notes](https://github.com/Ziya-Asgar/React_Router)
+- [Tanstack Query (React Query) notes](https://github.com/Ziya-Asgar/Tanstack_Query)
 
 ---
 
@@ -151,6 +152,7 @@ This section contains notes related to **web development**, with a focus on **Ja
 - [TypeScript notes](https://github.com/Ziya-Asgar/TypeScript)
 - [ReactJS notes](https://github.com/Ziya-Asgar/ReactJS)
 - [React Router notes](https://github.com/Ziya-Asgar/React_Router)
+- [Tanstack Query (React Query) notes](https://github.com/Ziya-Asgar/Tanstack_Query)
 - [NodeJS and ExpressJS notes](https://github.com/Ziya-Asgar/NodeJS)
 - [GIT notes](https://github.com/Ziya-Asgar/GIT)
 - [MongoDB notes](https://github.com/Ziya-Asgar/MongoDB)
